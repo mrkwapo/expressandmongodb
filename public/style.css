@@ -1,0 +1,8 @@
+li {
+  display: inline-block;
+  color: lightsalmon;
+  margin: 5px;
+  padding: 10px;
+  border-style: solid;
+  border-radius: 10px;
+}
